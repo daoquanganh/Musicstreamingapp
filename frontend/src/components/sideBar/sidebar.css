@@ -1,0 +1,6 @@
+.sidebar-container { 
+  width: '50vh' ;
+  height: '100vh' ;
+  position: 'absolute';
+  right: 0 
+}
